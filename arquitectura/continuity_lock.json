@@ -1,0 +1,36 @@
+{
+  "system": "Dani Collada IA",
+  "component": "Continuity Lock",
+  "version": "1.0",
+  "target_model": "VEO 3",
+  "core_attributes": {
+    "1_paleta_dominante": "dark graphite / black",
+    "2_temperatura_luz": "3200K - 4000K",
+    "3_nivel_grano": "subtle organic film grain",
+    "4_proporcion_negro": "high contrast, deep shadows",
+    "5_acento_color": "rose pink (#FAA7A3)",
+    "6_movimiento_camara": ["slow push-in", "pull-back", "top-down static", "lateral travelling", "rack focus"],
+    "7_superficie_visible": "dark matte wood, authentic textures",
+    "8_nivel_detalle": "high intrinsic detail, low decorative clutter"
+  },
+  "extended_attributes": {
+    "9_lente": "50mm",
+    "10_apertura": "f/2.8",
+    "11_direccion_key_light": "lateral left 45 degrees",
+    "12_fill_ratio": "minimal, deep right shadow",
+    "13_composicion": "off-center standard",
+    "14_props_fijos": ["matte black laptop", "aged cream notebook", "modular cards"],
+    "15_registro_visual": "Registro A (Identidad)",
+    "16_negative_constraints_aplicados": true,
+    "17_exposicion_fondo": "-1.5 stops below subject",
+    "18_tipografia": "post-production only (DM Sans Bold)"
+  },
+  "negative_constraints_obligatorios": [
+    "humanoid robots", "blue neon", "circuit-board brains", 
+    "text generated inside the clip", "readable signs or labels", 
+    "cyberpunk aesthetics", "holograms", "floating code", 
+    "generic 3D avatars", "3D render appearance", "bright corporate offices",
+    "smiling workers at computers", "aggressive camera movement", 
+    "glitch effects", "bright white backgrounds"
+  ]
+}
